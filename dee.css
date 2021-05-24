@@ -1,0 +1,115 @@
+.navbar{
+    text-align: right;
+    font-size: xx-large;
+
+
+}
+.holding container{
+    width:100%;
+    display:flex;
+    background:grey;
+    padding:50px;
+    flex-direction:row;
+}
+.internal container{
+    flex:1;
+    background:grey;
+    padding:28px;
+    font-size:10px;
+    font-family:'Roboto'sans-serif;
+    margin:5px;
+
+
+}
+.internal container{
+    flex:2;
+    background:grey;
+    padding:28px;
+    font-size:10px;
+    font-family:'Roboto'sans-serif;
+    margin:5px;
+    
+
+}
+.internal container{
+    flex:3;
+    background:grey;
+    padding:28px;
+    font-size:10px;
+    font-family:'Roboto'sans-serif;
+    margin:5px;
+    
+
+}
+media screen and {max-width:700px}
+    .hold container{
+        flex-direction:column-reverse;
+}
+body{
+    background-color: aquamarine;
+    background-image: url(/pictures/halo.jpg);
+}
+#welcome{
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 20px;
+    font-size: 36px;
+    color:white;
+}
+
+
+
+/* from home */
+.holding container{
+    width:100%;
+    display:flex;
+    background:grey;
+    padding:50px;
+    flex-direction:row;
+}
+.internal container{
+    flex:1;
+    background:grey;
+    padding:28px;
+    font-size:10px;
+    font-family:'Roboto'sans-serif;
+    margin:5px;
+
+
+}
+.internal container{
+    flex:2;
+    background:grey;
+    padding:28px;
+    font-size:10px;
+    font-family:'Roboto'sans-serif;
+    margin:5px;
+    
+
+}
+.internal container{
+    flex:3;
+    background:grey;
+    padding:28px;
+    font-size:10px;
+    font-family:'Roboto'sans-serif;
+    margin:5px;
+    
+
+}
+media screen and {max-width:700px}
+    .hold container{
+        flex-direction:column-reverse;
+}
+body{
+    background-color: aquamarine;
+}
+#welcome{
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 20px;
+    font-size: 36px;
+    color:white;
+}
